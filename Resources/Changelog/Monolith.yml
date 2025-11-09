@@ -13838,3 +13838,14 @@ Entries:
   id: 1531
   time: '2025-11-09T19:18:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2578
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Colossus Central sec docks access restricted, beacons fixed, TSF
+        shipyard access for sec revoked. QOL map and mass scanner touchups and
+        asphyxiation risk reduced at cryosleep, added safeguards against power
+        sabotage, added sinks to the kitchen and bar
+  id: 1532
+  time: '2025-11-09T19:31:23.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2573
